@@ -42,18 +42,21 @@
 						"mappings": [
 							{
 								"source": {
-									"name": "1",
-									"type": "Int32"
+									"name": "ID",
+									"type": "String"
 								},
 								"sink": {
-									"type": "Int16"
+									"name": "ID",
+									"type": "String"
 								}
 							},
 							{
 								"source": {
-									"name": "2"
+									"name": "Type",
+									"type": "String"
 								},
 								"sink": {
+									"name": "Type",
 									"type": "String"
 								}
 							}
