@@ -42,21 +42,19 @@
 						"mappings": [
 							{
 								"source": {
-									"type": "Int16",
-									"ordinal": 1
+									"name": "1",
+									"type": "Int32"
 								},
 								"sink": {
-									"type": "Int16",
-									"ordinal": 1
+									"type": "Int16"
 								}
 							},
 							{
 								"source": {
-									"ordinal": 2
+									"name": "2"
 								},
 								"sink": {
-									"type": "String",
-									"ordinal": 2
+									"type": "String"
 								}
 							}
 						]
@@ -119,8 +117,7 @@
 									"ordinal": 1
 								},
 								"sink": {
-									"type": "Int32",
-									"ordinal": 1
+									"type": "Int32"
 								}
 							}
 						]
