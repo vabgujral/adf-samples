@@ -113,11 +113,10 @@
 						"mappings": [
 							{
 								"source": {
-									"type": "Int32",
-									"ordinal": 1
+									"name": "1"
 								},
 								"sink": {
-									"type": "Int32"
+									"name": ""
 								}
 							}
 						]
